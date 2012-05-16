@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SWE12-Drone/!svn/ver/1/src/at/tugraz/ist/droned/dcf/security
+END
+MoveSecurityThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SWE12-Drone/!svn/ver/1/src/at/tugraz/ist/droned/dcf/security/MoveSecurityThread.java
+END
+DroneSecurityLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SWE12-Drone/!svn/ver/1/src/at/tugraz/ist/droned/dcf/security/DroneSecurityLayer.java
+END
